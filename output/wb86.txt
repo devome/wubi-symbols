@@ -1657,7 +1657,7 @@ cmpw 观察
 cmee 观月
 txqk 管弦乐器
 pfpl 冠军
-qipg 盥洗室
+wipg 盥洗室
 rmay 罐
 rmud 罐头
 ruwk 罐头食品
@@ -2009,7 +2009,7 @@ nerw 怀孕的男人
 nerw 怀孕的人
 fgiy 坏
 fgnh 坏蛋
-cqqb 欢迎
+cqpy 欢迎
 qtay 獾
 ggiy 环
 ggwk 环保
@@ -2816,6 +2816,7 @@ txgo 利比亚
 txgl 利比亚国
 ddpd 厉害
 ssbb 栗子
+uuyy 立方
 uysv 立方根
 ufru 立起的手背
 ubpq 立陶宛
@@ -3677,6 +3678,7 @@ gudn 平成
 gysg 平底杯
 gyqk 平底锅
 gyaf 平底鞋
+guyy 平方
 gytn 平方乘以
 gyhk 平方点
 gysv 平方根
@@ -4074,10 +4076,12 @@ hhlp 上边
 hhsf 上标
 hswt 上标八
 hstk 上标等号
+hsfg 上标二
 hsqk 上标负号
 hsvt 上标九
 hsuy 上标六
 hsag 上标七
+hsdg 上标三
 hsii 上标水
 hslh 上标四
 hsgg 上标五
@@ -5722,10 +5726,10 @@ apkk 营
 ynkt 赢咯
 ynkr 赢啦
 ynbn 赢了
-qdcl 迎面驶来的出租车
-qdcl 迎面驶来的公交车
-qdcl 迎面驶来的警车
-qdcl 迎面驶来的汽车
+pdcl 迎面驶来的出租车
+pdcl 迎面驶来的公交车
+pdcl 迎面驶来的警车
+pdcl 迎面驶来的汽车
 jyth 影片
 jtmh 影片帧
 dgtt 硬笔
@@ -8072,7 +8076,7 @@ dqud 🤜
 dtud 🤜
 fdru 🤜
 udud 🤜
-cqqb 👏
+cqpy 👏
 fkip 👏
 kkkr 👏
 krrg 👏
@@ -10636,7 +10640,7 @@ wclg 🚌
 wulg 🚌
 cnfg 🚍
 ddcn 🚍
-qdcl 🚍
+pdcl 🚍
 wail 🚍
 wclg 🚍
 fljl 🚎
@@ -10655,12 +10659,12 @@ aqlg 🚓
 aqpw 🚓
 vplq 🚓
 aqlg 🚔
-qdcl 🚔
+pdcl 🚔
 rbaq 🚔
 btlg 🚕
 rqfg 🚕
 btlg 🚖
-qdcl 🚖
+pdcl 🚖
 rqfg 🚖
 iilg 🚗
 illg 🚗
@@ -10669,7 +10673,7 @@ tplg 🚗
 iilg 🚘
 illg 🚘
 irlg 🚘
-qdcl 🚘
+pdcl 🚘
 tplg 🚘
 ffgl 🚙
 fjlg 🚙
@@ -11077,14 +11081,14 @@ uwyp ✨
 rngf 🎈
 ydma 🎈
 awfk 🎉
-cqqb 🎉
+cqpy 🎉
 esgk 🎉
 icpa 🎉
 ircf 🎉
 pylk 🎉
 roeg 🎉
 ydpy 🎉
-cqqb 🎊
+cqpy 🎊
 daeg 🎊
 eqdx 🎊
 gexg 🎊
@@ -12507,7 +12511,7 @@ vvfg 🚺
 btuj 🚻
 dmrn 🚻
 iruj 🚻
-qipg 🚻
+wipg 🚻
 mmqt 🚼
 mqsf 🚼
 mqtk 🚼
@@ -12517,7 +12521,7 @@ baby 🚼
 btuj 🚾
 dmrn 🚾
 iruj 🚾
-qipg 🚾
+wipg 🚾
 ctyg 🛂
 pvsw 🛂
 rjss 🛂
@@ -15856,8 +15860,12 @@ hhsf ⁵
 hsgg ⁵
 hhsf ⁴
 hslh ⁴
-hhsf ⁳
-hhsf ⁲
+hhsf ³
+hsdg ³
+uuyy ³
+guyy ²
+hhsf ²
+hsfg ²
 hhsf ⁱ
 hsii ⁱ
 hhsf ⁰

@@ -2816,6 +2816,7 @@ txgo 利比亚
 txgl 利比亚国
 dgpd 厉害
 ssbb 栗子
+uuyy 立方
 uysv 立方根
 ufru 立起的手背
 ubpq 立陶宛
@@ -3677,6 +3678,7 @@ gudn 平成
 gosd 平底杯
 goqk 平底锅
 goaf 平底鞋
+guyy 平方
 gytn 平方乘以
 gyhk 平方点
 gysv 平方根
@@ -4074,10 +4076,12 @@ hhep 上边
 hhsf 上标
 hswt 上标八
 hstk 上标等号
+hsfg 上标二
 hsqk 上标负号
 hsvt 上标九
 hsuy 上标六
 hsag 上标七
+hsdg 上标三
 hsii 上标水
 hslh 上标四
 hsgg 上标五
@@ -15857,8 +15861,12 @@ hhsf ⁵
 hsgg ⁵
 hhsf ⁴
 hslh ⁴
-hhsf ⁳
-hhsf ⁲
+hhsf ³
+hsdg ³
+uuyy ³
+guyy ²
+hhsf ²
+hsfg ²
 hhsf ⁱ
 hsii ⁱ
 hhsf ⁰
