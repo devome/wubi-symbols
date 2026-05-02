@@ -1230,6 +1230,7 @@ bgsm 耳机
 bgdx 耳聋
 fgg 二
 fghk 二点
+fwpg 二分之一
 fbpy 二孩家庭
 ffhk 二十点
 fuem 二头肌
@@ -3983,6 +3984,7 @@ dhaa 三点式
 dhqk 三点钟
 dkwt 三颚化符
 dwpf 三分之二
+dwpf 三分之零
 dwpg 三分之一
 dwtu 三个向右箭头
 decq 三脚鸡
@@ -4086,6 +4088,7 @@ hsii 上标水
 hslh 上标四
 hsgg 上标五
 hsoo 上标炎
+hsgg 上标一
 hsnn 上标已
 hsdk 上标右圆括号
 hsgk 上标正号
@@ -4506,6 +4509,8 @@ lhuf 四点半
 lhqk 四点钟
 lymh 四方帽
 lwut 四分音符
+lwpd 四分之三
+lwpg 四分之一
 lqpu 四角裤
 lkpp 四口之家
 llia 四轮滑冰鞋
@@ -15732,6 +15737,10 @@ dwpg ⅓
 fwpg ⅒
 vwpg ⅑
 awpg ⅐
+lwpd ¾
+fwpg ½
+lwpg ¼
+dwpf ↉
 wffh ℻
 wftk ℻
 wdyf ℮
@@ -15866,6 +15875,8 @@ uuyy ³
 guyy ²
 hhsf ²
 hsfg ²
+hhsf ¹
+hsgg ¹
 hhsf ⁱ
 hsii ⁱ
 hhsf ⁰
