@@ -1500,9 +1500,7 @@ mxgo 冈比亚
 mxgl 冈比亚共和国
 mrjs 刚果
 mjdm 刚果布
-mjdm 刚果（布）
 mjqq 刚果金
-mjqq 刚果（金）
 qmqm 钢镚
 qqqt 钢镚儿
 qmtt 钢笔
